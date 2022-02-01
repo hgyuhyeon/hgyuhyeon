@@ -1,4 +1,11 @@
 ### Hi there 👋
+* Gyuhyeon Hwang
+* Chungbuk National University Student
+
+*****
+
+#### My GitHub Stats
+![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon&show_icons=true&theme=nightowl)
 
 <!--
 **hgyuhyeon/hgyuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
