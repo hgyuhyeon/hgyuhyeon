@@ -5,12 +5,14 @@
 *****
 
 > My GitHub Stats
+> 
 ![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon&show_icons=true&theme=nightowl)
 
 
 *****
 
 > Top Languages
+> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgyuhyeon&langs_count=8&layout=compact)
 
 *****
