@@ -2,20 +2,20 @@
 * 🧑 My name is **Gyuhyeon Hwang**
 * 🌱 **Department of Comuputer Science** - Chungbuk National University
 
-*****
+
 
 > My GitHub Stats
 > 
 ![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon&show_icons=true&theme=nightowl)
 
 
-*****
+
 
 > Top Languages
 > 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgyuhyeon&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgyuhyeon&langs_count=8&layout=compact)
 
-*****
+
 
 > How to reach me
 📫 hwgyuhyeon@gmail.com
