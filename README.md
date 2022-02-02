@@ -6,7 +6,7 @@
 
 > My GitHub Stats
 > 
-![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon&show_icons=true&theme=nightowl)
+![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon1223412&show_icons=true&theme=nightowl)
 
 <br/>
 
