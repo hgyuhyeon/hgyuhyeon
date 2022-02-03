@@ -1,5 +1,5 @@
 # Gyuhyeon Hwang
-🧑 My name is **Gyuhyeon Hwang**
+🧑 My name is **Gyuhyeon Hwang** <br/>
 🌱 **Department of Comuputer Science** - Chungbuk National University
 
 ---
