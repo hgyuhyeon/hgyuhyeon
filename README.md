@@ -34,7 +34,8 @@ https://simpleicons.org
 <br/><br/>
 
 ## How to reach me
-📫 hwgyuhyeon@gmail.com
+📫 hwgyuhyeon@gmail.com <br/>
+💼 [LinkedIn](https://www.linkedin.com/in/gyuhyeon)
 
 
 <!--
