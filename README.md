@@ -1,6 +1,6 @@
 # Introduction
 🧑 My name is **Gyuhyeon Hwang** <br/>
-🌱 **Department of Comuputer Science** - Chungbuk National University
+🌱 **Department of Computer Science** - Chungbuk National University
 
 <br/><br/>
 
