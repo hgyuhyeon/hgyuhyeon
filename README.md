@@ -4,11 +4,6 @@
 
 <br/><br/>
 
-## My GitHub Stats
-![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon&show_icons=true&theme=nightowl)
-
-<br/><br/>
-
 ## Tech Stack
 <!--
 https://simpleicons.org
@@ -30,6 +25,11 @@ https://simpleicons.org
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgyuhyeon&langs_count=8&layout=compact&theme=nightowl)
+
+<br/><br/>
+
+## My GitHub Stats
+![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon&show_icons=true&theme=nightowl)
 
 <br/><br/>
 
