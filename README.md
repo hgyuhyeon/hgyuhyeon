@@ -57,6 +57,6 @@ https://simpleicons.org
 <br/><br/>
 
 ### 💼 Contact
-[mail](hwgyuhyeon@gmail.com)<br/>
+hwgyuhyeon@gmail.com <br/>
 [LinkedIn](https://www.linkedin.com/in/gyuhyeon)
 </div>
