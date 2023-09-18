@@ -1,5 +1,5 @@
 # Greetings!
-A university student who is going to graduate in February 2024. I love learning new skills, solving algorithm problems, and collecting all the source code I have written to GitHub. I'm welcome to be friends, feel free to explore my repositories.
+A student who loves to make and develop services whatever the tech stacks are. Specialize in Django/Python, feel free to reach my repositories.
 
 <br/><br/>
 
