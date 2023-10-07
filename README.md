@@ -29,4 +29,4 @@ https://simpleicons.org
 
 ### 💼 Contact
 <a href="mailto:hwgyuhyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/gyuhyeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/gyuhyeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
