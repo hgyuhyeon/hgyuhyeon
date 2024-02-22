@@ -2,9 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=140&section=header&text=Hwang,%20GyuHyeon&animation=fadeIn&fontSize=60)
 
+</div>
 <br/><br/>
 
-### 🔧 Skills
+## 🔧 Skills
 <!--
 https://simpleicons.org
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>&nbsp;
@@ -21,13 +22,11 @@ https://simpleicons.org
 
 <br/><br/>
 
-### 🌱 Activities
+## 🌱 Activities
 ![Gyuhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgyuhyeon&show_icons=true&theme=dark)
 
 <br/><br/>
 
-### 💼 Reach me out
+## 💼 Contact
 <a href="mailto:hwgyuhyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gyuhyeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-
-</div>
