@@ -1,9 +1,3 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=Hwang,%20GyuHyeon&animation=fadeIn&fontSize=35)
-
-</div>
-
 ## Skills
 <!--
 https://simpleicons.org
