@@ -12,5 +12,5 @@
 
 
 ### Reach me out through...
-<a href="mailto:hwgyuhyeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/gyuhyeon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hwgyuhyeon@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="60px"/></a>
+<a href="https://www.linkedin.com/in/gyuhyeon"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="60px"/></a>
